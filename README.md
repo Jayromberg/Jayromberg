@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 Atualmente estou aprendendo Desenvolvimento Web na Trybe.
 - 👯 Estou procurando colaborar em equipe, ajudando com monitorias aos finais de semana.
 - 💬 Meus hobbies são jogos, animes e séries.
-- ⚡ Curiosidade: Sou muito bom no boliche e corrida de kart. (Eu acho! :sweat_smile: )
+- ⚡ Curiosidade: Sou muito bom no boliche e corrida de kart. (Eu acho! :sweat_smile:)
 
 <div>
 <a href="https://github.com/Jayromberg">
@@ -31,5 +31,6 @@ Here are some ideas to get you started:
 
 ### Estou aprendendo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"/>
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"/ 
+
+### Contato

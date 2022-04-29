@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 Atualmente estou aprendendo Desenvolvimento Web na Trybe.
 - 👯 Estou procurando colaborar em equipe, ajudando com monitorias aos finais de semana.
 - 💬 Meus hobbies são jogos, animes e séries.
-- ⚡ Curiosidade: 
+- ⚡ Curiosidade: Sou muito bom no boliche e corrida de kart. (Eu acho! :sweat_smile: )
 
 <div>
 <a href="https://github.com/Jayromberg">

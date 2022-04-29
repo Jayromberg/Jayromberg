@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá, me chamo Jayro! 
+## Meu nome é Jayro! 
 ### Bem vindo ao meu perfil GitHub 👋

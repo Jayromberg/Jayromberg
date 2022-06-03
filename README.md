@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="320px" src="https://38.media.tumblr.com/f5e6fa5b5ebb56a6438b54d15d519367/tumblr_nm92ujDXeS1ru4t0lo1_500.gif">
+<img align="right" src="https://38.media.tumblr.com/f5e6fa5b5ebb56a6438b54d15d519367/tumblr_nm92ujDXeS1ru4t0lo1_500.gif" width="340px">
 
-## Olá, Me chamo Jayro! 
+## Olá, me chamo Jayro! 
 ### Bem vindo ao meu perfil GitHub 👋
 
 - 🌱 Atualmente estou aprendendo Desenvolvimento Web na Trybe.

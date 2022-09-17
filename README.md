@@ -55,6 +55,6 @@ Here are some ideas to get you started:
 </div>
 <br> 
        
-⭐️ Baseado em [Thalles Carneiro](https://github.com/thalles-carneiro) 
+⭐️ Baseado em [Thalles Carneiro](https://github.com/thalles-carneiro) e [Calebe Souza Guimarães](https://github.com/calebesg)
        
 </div>

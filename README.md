@@ -44,7 +44,16 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,jest,react,redux,styledcomponents,docker,mysql,nodejs,express,vscode" />
   </a>
 </p>
-
+  
+<!--
+#### JavaScript
+JavaScript é uma linguagem de programação que permite a você implementar itens complexos em páginas web — toda vez que uma página da web faz mais do que simplesmente mostrar a você informação estática — mostrando conteúdo que se atualiza em um intervalo de tempo, mapas interativos ou gráficos 2D/3D animados, etc. — você pode apostar que o JavaScript provavelmente está envolvido. Fonte: [Mozilla](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+#### TypeScript
+Typescript é uma linguagem de código aberto desenvolvida pela Microsoft que foi construída em cima do Javascript, que é muito difundido atualmente. Então esse “superset” foi criado para adicionar recursos de tipagem estáticas à linguagem original.
+Em outras palavras, temos todas as funcionalidades do Javascript no Typescript acrescidas de várias outras funcionalidades que caracterizam o Typescript.
+Embora Typescript seja um superset do Javascript, na hora de compilar o código, todo Typescript é convertido/transpilado para Javascript. Fonte: [Geek Hunter](https://blog.geekhunter.com.br/introducao-a-typescript/)
+-->
+  
 ---                    
        
 ### Contato

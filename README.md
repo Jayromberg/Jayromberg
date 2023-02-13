@@ -41,10 +41,19 @@ Here are some ideas to get you started:
           
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,jest,react,redux,styledcomponents,docker,mysql,mongodb,nodejs,express,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,jest,react,redux,styledcomponents,docker,mysql,mongodb,nodejs,express,py,vscode" />
   </a>
 </p>
   
+---  
+  
+ <a href="https://wakatime.com">
+   <img src="https://wakatime.com/share/@2d0ad804-c60f-4038-bd42-2cf2852cfc74/9d421104-ab59-43c7-bc76-cf701302360b.png" height="260em"/>
+ </a>
+ 
+ <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@2d0ad804-c60f-4038-bd42-2cf2852cfc74/1b3cbb6d-5867-4fcd-acad-37418063e768.png" height="260em"/>
+ </a>
 <!--
 #### JavaScript
 JavaScript é uma linguagem de programação que permite a você implementar itens complexos em páginas web — toda vez que uma página da web faz mais do que simplesmente mostrar a você informação estática — mostrando conteúdo que se atualiza em um intervalo de tempo, mapas interativos ou gráficos 2D/3D animados, etc. — você pode apostar que o JavaScript provavelmente está envolvido. Fonte: [Mozilla](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript)

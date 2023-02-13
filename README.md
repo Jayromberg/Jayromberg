@@ -52,7 +52,7 @@ Here are some ideas to get you started:
  </a>
  
  <a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@2d0ad804-c60f-4038-bd42-2cf2852cfc74/1b3cbb6d-5867-4fcd-acad-37418063e768.png" height="260em"/>
+    <img src="https://wakatime.com/share/@2d0ad804-c60f-4038-bd42-2cf2852cfc74/04026268-e0fd-4367-a0ed-5e1b0c9a983e.png" height="260em"/>
  </a>
 <!--
 #### JavaScript

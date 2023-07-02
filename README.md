@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 ## Olá, me chamo Jayro! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 🌱 Atualmente estou aprendendo Desenvolvimento Web na Trybe.
-- 👯 Estou procurando colaborar em equipe, ajudando com monitorias aos finais de semana.
+- 🌱 Estou em busca da minha primeira oportunidade de emprego na área de tecnologia.
+- 👯 Colaboração é a chave de um bom negócio. Se precisar de ajuda, é só mandar mensagem!
+- 🤔 Estou desenvolvendo um e-commerce e qualquer sugestão é muito bem-vinda!
 - 💬 Meus hobbies são jogos, animes e séries.
 - ⚡ Curiosidade: Sou muito bom no boliche e corrida de kart. (Eu acho! :sweat_smile:)
 

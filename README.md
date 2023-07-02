@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 ### Bem vindo ao meu perfil GitHub 👋
 
 - 🌱 Estou em busca da minha primeira oportunidade de emprego na área de tecnologia.
-- 👯 Colaboração é a chave de um bom negócio. Se precisar de ajuda, é só mandar mensagem!
-- 🤔 Estou desenvolvendo um e-commerce e qualquer sugestão é muito bem-vinda!
+- 🤔 Atualmente estou desenvolvendo um e-commerce e qualquer sugestão é muito bem-vinda!
 - 💬 Meus hobbies são jogos, animes e séries.
 - ⚡ Curiosidade: Sou muito bom no boliche e corrida de kart. (Eu acho! :sweat_smile:)
 

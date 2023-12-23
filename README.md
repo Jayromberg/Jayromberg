@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jayromberg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 -->
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 ---           
   
